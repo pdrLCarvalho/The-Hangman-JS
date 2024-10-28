@@ -1,47 +1,49 @@
 <img src="/assets/THE HANGMAN.svg" alt="Logo da THE HANGMANa">
 
-**THE HANGMAN** Este projeto é um jogo interativo da forca, desenvolvido como parte do curso de Front-End, para o final do módulo de programação com Javascript. O jogo permite ao usuário adivinhar palavras, chutando letras ou a palavra completa, e conta com funcionalidades como reinício de partida, exibição de dicas/temas, e uso de teclado virtual. As palavras e dicas são obtidas de uma API externa, tornando o jogo dinâmico e variado.
+**THE HANGMAN** This project is an interactive hangman game developed as part of the Front-End course, marking the end of the DOM manipulation module. The game allows users to guess words by selecting letters or trying to guess the full word, featuring options such as restarting the game, showing hints/themes, and using a virtual keyboard. The words and hints are fetched from an external API, making the game dynamic and varied.
 
-## 🚀 Funcionalidades
+## 🚀 Features
 
-- **Escolha um tema**: Avatar, Dragon Ball ou Naruto;
-- **Advinhe a palavra**: O sistema renderiza a palavra ocultada e você deve advinhar;
-- **Teclado Virtual**: Simula o teclado físico, permitindo o jogador clicar nas letras.
-- **Consumo de API Externa**: As palavras e dicas são dinâmicas, obtidas de uma API externa.
-- **Salvamento de pontuação**: Utilizando localStorage para salvar histórico de pontuação.
+- **Choose a theme**: Avatar, Dragon Ball, or Naruto;
+- **Guess the word**: The system renders a hidden word, and you must figure it out;
+- **Virtual keyboard**: Simulates a physical keyboard, allowing players to click on letters;
+- **External API Consumption**: Words and hints are dynamically fetched from an external API;
+- **Score Saving**: Uses localStorage to store score history.
 
-## 🛠️ Como rodar o projeto
+## 🛠️ How to Run the Project
 
-Siga os passos abaixo para executar o projeto em sua máquina local:
+Follow the steps below to run the project on your local machine
 
-1. **Clone o repositório**:
+1. **Clone the repository**:
 
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
    ```
 
-2. **Acesse o diretório do projeto**:
+2. **Access the project directory**:
 
    ```bash
    cd nome-do-repositorio
    ```
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Technologies Used
 
 - **HTML**;
 - **CSS**;
 - **Javascript**;
-- **3 APIs externas**;
+- **3 External APIs **;
 - **LocalStorage**;
 - **Figma**;
 
 ---
 
-👤 **Autores**  
+👤 **Developers**  
+[Pedro Carvalho](https://github.com/pdrLCarvalho)
+
 [Wesley Menezes](https://github.com/xxwelldone)
 
 [Gekyume Serna](https://github.com/TheBestGekyume)
 
 [Lidor Brosh](https://github.com/lidorbrosh)
 
-[Pedro Carvalho](https://github.com/pdrLCarvalho)
+
